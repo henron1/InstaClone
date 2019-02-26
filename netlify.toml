@@ -1,5 +1,5 @@
 [build]
-base = "InstaClone/"
+base = ""
 publish = "InstaClone/build/"
 command = "yarn build"
 
